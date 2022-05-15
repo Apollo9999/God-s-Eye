@@ -1,7 +1,7 @@
 # God-s-Eye
 
 # Project Name:
-## God's Eye
+## God-s- Eye
 
 ![photo_2022-03-26_03-15-10](https://user-images.githubusercontent.com/73690811/160207334-b364c377-c9cf-4186-84c6-8de8132e0629.jpg)
 
